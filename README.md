@@ -13,7 +13,7 @@ Following is add：
 
 • New classification of content with additional columns of overseas news.
 
-# Screenshot
+# Content
 ![image](https://github.com/Emily-Weng/Android_News_App/blob/main/images/%E5%9C%961.png)
 ![Alt text](https://i.imgur.com/nVazuRG.png "News API(photo 2)")
 ![Alt text](https://i.imgur.com/JPADnPl.png "News API(photo 3)")
