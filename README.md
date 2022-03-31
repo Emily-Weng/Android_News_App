@@ -14,7 +14,7 @@ Following is add：
 • New classification of content with additional columns of overseas news.
 
 # Screenshot
-![Alt text](https://imgur.com/c33sq04 "News API(photo 1)")
+!(https://i.imgur.com/c33sq04.png)
 ![Alt text](https://i.imgur.com/nVazuRG.png "News API(photo 2)")
 ![Alt text](https://i.imgur.com/JPADnPl.png "News API(photo 3)")
 
