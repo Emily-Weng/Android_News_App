@@ -21,6 +21,9 @@ Following is add：
 
 2.Click the button of United State,you can enter the screen on the right to collect news media in theUnited States.
 ![image](https://github.com/Emily-Weng/Android_News_App/blob/main/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202022-03-31%20200239.png)![image](https://github.com/Emily-Weng/Android_News_App/blob/main/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202022-03-31%20200255.png)
+
+3.Then, choose a news item and click in.
+![image](https://github.com/Emily-Weng/Android_News_App/blob/main/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202022-03-31%20200337.png)
 ![Alt text](https://i.imgur.com/nVazuRG.png "News API(photo 2)")
 ![Alt text](https://i.imgur.com/JPADnPl.png "News API(photo 3)")
 
