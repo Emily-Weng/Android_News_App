@@ -15,6 +15,7 @@ Following is add：
 
 # Content
 1 、Open the App, you will see all the news in the Taiwan Area-General category on the screen. There is a country menu on the left, and the news of each country retains the local language, which is convenient for learners to learn each country's language.
+
 ![image](https://raw.githubusercontent.com/Emily-Weng/Android_News_App/main/images/%E5%9C%961.png)![image](https://raw.githubusercontent.com/Emily-Weng/Android_News_App/main/images/Screenshot-NewsApp-Copy.png)  
 ![Alt text](https://i.imgur.com/nVazuRG.png "News API(photo 2)")
 ![Alt text](https://i.imgur.com/JPADnPl.png "News API(photo 3)")
