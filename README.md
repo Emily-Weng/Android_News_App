@@ -33,12 +33,12 @@ Following is add：
 # 5.Back to the previous page, there is a menu of production categories at the top, including general, business, entertainment, health, sports, and technology. Users can click on the appropriate category according to the content they want to see. Suppose the user wants to watch health news, click on the "Health" button.
 
 ![image](https://github.com/Emily-Weng/Android_News_App/blob/main/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202022-03-31%20200420.png)
-6. There will be all health news in the U.S.
+
+# 6. There will be all health news in the U.S.
 ![image](https://github.com/Emily-Weng/Android_News_App/blob/main/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202022-03-31%20200438.png)
 
 
 
 
-![Alt text](https://i.imgur.com/nVazuRG.png "News API(photo 2)")
-![Alt text](https://i.imgur.com/JPADnPl.png "News API(photo 3)")
+
 
